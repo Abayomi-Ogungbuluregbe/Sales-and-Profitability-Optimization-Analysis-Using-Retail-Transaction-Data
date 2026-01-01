@@ -1,5 +1,6 @@
 # 📊 Sales and Profitability Optimization Analysis Using Retail Transaction Data
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4b1585ee-0a8c-486d-82f7-f805bdab94a7" />
 ---
 
 ## 📌 Project Overview
