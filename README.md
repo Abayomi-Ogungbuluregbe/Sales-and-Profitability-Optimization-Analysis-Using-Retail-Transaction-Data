@@ -271,6 +271,6 @@ Sales exhibit **clear seasonal patterns** that can be leveraged for profitabilit
 
 ---
 
-## 📢 I am actively seeking **remote data analyst and business intelligence opportunities** where I can apply statistical analysis, business reasoning, and data storytelling to solve real-world problems.
+📢 I am actively seeking **remote data analyst and business intelligence opportunities** where I can apply statistical analysis, business reasoning, and data storytelling to solve real-world problems.
 
-📩 **Let’s connect and collaborate.**
+📩 **Let’s connect and collaborate via abayomiogungbuluregbe@gmail.com**
