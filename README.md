@@ -1,0 +1,2 @@
+# Sales-and-Profitability-Optimization-Analysis-Using-Retail-Transaction-Data
+This project presents a comprehensive analysis of retail transaction data to uncover **sales trends, product performance, and key revenue drivers**.   Using **Excel, Power BI, and statistical techniques**, the analysis answers critical business questions that support **profitability optimization and data-driven decision-making.
